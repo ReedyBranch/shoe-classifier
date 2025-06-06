@@ -52,11 +52,6 @@ shoe-classifier/
 ├── notebook.ipynb # Model training & evaluation
 └── README.md # This file
 
-yaml
-Copy
-Edit
-
-
 ---
 
 ## 📈 Example Use
