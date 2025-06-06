@@ -9,7 +9,6 @@ Built using Python, Scikit-learn, and Streamlit, this project demonstrates end-t
 ## 🚀 Live Demo
 
 👉 [Try the app here](https://shoe-classifier-mlseccdztpvhmqnrr9mtvf.streamlit.app)  
-*(Replace with your actual URL)*
 
 ---
 
