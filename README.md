@@ -43,3 +43,43 @@ Built using Python, Scikit-learn, and Streamlit, this project demonstrates end-t
 
 ## 📂 Project Structure
 
+shoe-classifier/
+├── app.py # Streamlit app
+├── requirements.txt # Dependencies
+├── model/
+│ ├── logreg_model.pkl # Trained ML model
+│ └── vectorizer.pkl # TF-IDF vectorizer
+├── notebook.ipynb # Model training & evaluation
+└── README.md # This file
+
+yaml
+Copy
+Edit
+
+
+---
+
+## 📈 Example Use
+
+**Review**:  
+> "Love how lightweight and comfortable they are — perfect for running!"
+
+**Prediction**:  
+> 🧠 Sneaker
+
+---
+
+## 🙋‍♂️ Author
+
+**Reed Burchard**  
+📬 [LinkedIn](https://www.linkedin.com/in/reed-burchard/)  
+
+---
+
+## 🧪 Future Improvements
+
+- Add more shoe categories (e.g. flats, wedges, loafers)
+- Use deep learning (LSTM or DistilBERT) for improved performance
+- Let users upload reviews in bulk via CSV
+
+---
